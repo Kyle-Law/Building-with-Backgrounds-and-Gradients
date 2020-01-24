@@ -1,6 +1,4 @@
 # Building-with-backgrounds and Gradients
-Home page for an Apple site
-http://127.0.0.1:5500/index.html
 
 The aim of the project is to build backgrounds and gradients.The project contains a nav-bar, main-section plus the footer
 
@@ -8,8 +6,7 @@ The aim of the project is to build backgrounds and gradients.The project contain
 HTML and CSS3
 
 # Live demo
-.[Live demo link].http://127.0.0.1:5502/index.html
-
+.[Live demo link].https://rawcdn.githack.com/mbabaliiryn/Building-with-Backgrounds-and-Gradients/68f9655a829fb871f4e2fd0ecbaf049a9b472cc0/index.html
 # Author
 mbabali Iryn
 
